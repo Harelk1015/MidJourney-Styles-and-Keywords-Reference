@@ -834,14 +834,19 @@
 	</picture></a>
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Nature_and_Animals.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals.webp?raw=true" width = 288>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals_light.webp?raw=true" width = 288>
-	<img alt="🌲 Nature and Animals" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals.webp?raw=true" width = 288>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals_light.webp?raw=true" width = 190>
+	<img alt="🌲 Nature and Animals" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_nature_and_animals.webp?raw=true" width = 190>
+	</picture></a>
+	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/new_categories/Pages/MJ_V1/Style_Pages/Sphere/Geography_and_Culture.md"><picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/new_categories/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_geography_and_culture.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/new_categories/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_geography_and_culture_light.webp?raw=true" width = 190>
+	<img alt="🗺 Geography and Culture" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/new_categories/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_geography_and_culture.webp?raw=true" width = 190>
 	</picture></a>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Outer_Space.md"><picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space.webp?raw=true" width = 288>
-	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space_light.webp?raw=true" width = 288>
-	<img alt="☄ Outer Space" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space.webp?raw=true" width = 288>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space.webp?raw=true" width = 190>
+	<source media="(prefers-color-scheme: light)" srcset="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space_light.webp?raw=true" width = 190>
+	<img alt="☄ Outer Space" src="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Images/Repo_Parts/Buttons/Style_Buttons/Mini_Style_Buttons/button_outer_space.webp?raw=true" width = 190>
 	</picture></a>
 	<br>
 	<a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V1/Style_Pages/Sphere/Camera.md"><picture>
