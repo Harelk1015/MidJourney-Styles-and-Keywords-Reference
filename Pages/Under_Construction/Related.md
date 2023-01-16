@@ -43,7 +43,7 @@
 
 <table>
 	<tr align="center" valign="middle">
-		<th colspan=3>Related To [🎷 Objects and Animals]</th>
+		<th colspan=3>Related To [🎷 Objects]</th>
 	</tr>
 	<tr align="center" valign="middle">
 		<td width=280>🎭☄ Outer Space</td>

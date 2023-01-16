@@ -628,7 +628,7 @@
 
 <table>
     <tr align=center valign=middle>
-        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Objects_and_Animals.md">🎷 Objects and Animals</a></th>
+        <th colspan=3><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/blob/main/Pages/MJ_V3/Style_Pages/Sphere/Objects.md">🎷 Objects</a></th>
     </tr>
 	<tr align=center valign=middle>
 		<td>🎷🍣 Food and Consumables</td>
